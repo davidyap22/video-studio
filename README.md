@@ -70,7 +70,7 @@ Download from [ffmpeg.org](https://ffmpeg.org/download.html) and add to PATH.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/video-studio.git
+git clone https://github.com/davidyap22/video-studio.git
 cd video-studio
 ```
 
@@ -279,4 +279,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this project helpful, please give it a star!
 
-For issues and feature requests, please [open an issue](https://github.com/your-username/video-studio/issues).
+For issues and feature requests, please [open an issue](https://github.com/davidyap22/video-studio/issues).
